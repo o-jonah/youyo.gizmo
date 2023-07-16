@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Dorcus"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "multipage"
+	}
+}
